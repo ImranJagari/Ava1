@@ -1,4 +1,4 @@
-# Ava1 ![thh](https://github.com/greatmaes/Ava1/blob/master/img/go_107.png)
+# Ava1
 
 Ava1 is a non-profit C# server side emulator for the game StreetGears.
 
