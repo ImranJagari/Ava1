@@ -12,8 +12,6 @@ namespace Ava1.auth.core.net.mmo.message
 {
     public class Handler
     {
-      
-
         [MMO((UInt16)MmoServerEnums.BM_SC_CHAT_USER)]
         public static void HandleChat(Client client, Message message)
         {
