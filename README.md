@@ -4,15 +4,15 @@ Ava1 is a non-profit C# server side emulator for the game StreetGears.
 
 Note: I was still learning at this time
 
-- [**1. Setup**](#required-setup)
-  - [1.1 Required Files](#required-setup)
+- [**1. Setup**](#required-files-setup)
+  - [1.1 Required Files](#required-files-setup)
   - [1.2 MySQL Database installation](#database-setup)
   - [1.3 Ava1 Setup](#ava1-setup)
   - [1.4 Comptability](#comptability-setup)
-- [**2. Informations**](#database-informations)
-  - [2.1 Account Database](#database-informations)
-  - [2.2 Server Database](#database-informations)
-  - [2.3 Clan Database](#database-informations)
+- [**2. Informations**](#account-database-informations)
+  - [2.1 Account Database](#account-database-informations)
+  - [2.2 Server Database](#server-database-informations)
+  - [2.3 Clan Database](#clan-database-informations)
   - [2.4 Packet Protocol](#packet-informations)
 - [**3. Community**](https://github.com/greatmaes/Ava1/wiki)
   - [3.1 Isssues tracker](https://github.com/greatmaes/Ava1/issues)
@@ -117,9 +117,9 @@ clan_points   | (int) Clan points
 ![Image7](https://raw.githubusercontent.com/greatmaes/Ava1/master/img/struct.jpg)
 
 # Binaries
-- [**Lastest update (v1.0.0.0)**](https://github.com/greatmaes/StreetEngine-Emulator/releases/tag/1.0.0.1)
-  - [Binary](https://github.com/greatmaes/StreetEngine-Emulator/releases/download/1.0.0.1/StreetEngine-Emulator-Binary.rar)
-  - [Full Source Code](https://github.com/greatmaes/StreetEngine-Emulator/releases/download/1.0.0.1/StreetEngine-Emulator-Full-Source.rar)
+- [**Lastest update (v1.0.0.0)**](https://github.com/greatmaes/Ava1/releases/tag/1.0.0.0)
+  - [Binary](https://github.com/greatmaes/Ava1/releases/download/1.0.0.0/Ava1_Binary.rar)
+  - [Full Source Code](https://github.com/greatmaes/Ava1/releases/download/1.0.0.0/Ava1_Source.rar)
 
 # Credits (In alphabetical order)
 - Geekgame
