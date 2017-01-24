@@ -13,7 +13,7 @@ Note: I was still learning at this time
   - [2.1 Account Database](#account-database-informations)
   - [2.2 Server Database](#server-database-informations)
   - [2.3 Clan Database](#clan-database-informations)
-  - [2.4 Packet Protocol](#packet-informations)
+  - [2.4 Packet Protocol](#packets-informations)
 - [**3. Community**](https://github.com/greatmaes/Ava1/wiki)
   - [3.1 Isssues tracker](https://github.com/greatmaes/Ava1/issues)
   - [3.2 Wiki](https://github.com/greatmaes/Ava1/wiki)
