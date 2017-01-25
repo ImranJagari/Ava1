@@ -82,18 +82,11 @@ namespace Ava1.shared.database
 
         public static bool SearchUserByName(string username)
         {
-            using (MySqlDataReader reader = new MySqlCommand("SELECT * FROM sg_account", Manager.MySqlConnection).ExecuteReader())
+            using (MySqlDataReader reader = new MySqlCommand("SELECT * FROM sg_account WHERE char_name=\""+username+"\"", Manager.MySqlConnection).ExecuteReader())
             {
-                while(reader.Read())
+                if(reader.Read())
                 {
-                    if (username == (String)reader["char_name"])
-                    {
-                        return true;
-                    }
-                    else
-                    {
-                        return false;
-                    }
+                    return true;
                 }
                 reader.Close();
                 return false;
