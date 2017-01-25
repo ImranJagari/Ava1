@@ -17,10 +17,8 @@ Note: I was still learning at this time
 - [**3. Community**](https://github.com/greatmaes/Ava1/wiki)
   - [3.1 Isssues tracker](https://github.com/greatmaes/Ava1/issues)
   - [3.2 Wiki](https://github.com/greatmaes/Ava1/wiki)
-
-Advanced project: 
-- https://github.com/itsexe/SG_CPP
-- https://streetgears.biz/
+  - [3.3 Advanced projects](#advanced-projects)
+  - [3.4 Download](#binaries)
   
 ### Required Files (*Setup*)
 
@@ -124,6 +122,10 @@ clan_points   | (int) Clan points
 - [**Lastest update (v1.0.0.0)**](https://github.com/greatmaes/Ava1/releases/tag/1.0.0.0)
   - [Binary](https://github.com/greatmaes/Ava1/releases/download/1.0.0.0/Ava1_Binary.rar)
   - [Full Source Code](https://github.com/greatmaes/Ava1/releases/download/1.0.0.0/Ava1_Source.rar)
+  
+# Advanced projects
+- https://github.com/itsexe/SG_CPP
+- https://streetgears.biz/
 
 # Credits (In alphabetical order)
 - Geekgame
