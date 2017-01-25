@@ -17,6 +17,10 @@ Note: I was still learning at this time
 - [**3. Community**](https://github.com/greatmaes/Ava1/wiki)
   - [3.1 Isssues tracker](https://github.com/greatmaes/Ava1/issues)
   - [3.2 Wiki](https://github.com/greatmaes/Ava1/wiki)
+
+Advanced project: 
+- https://github.com/itsexe/SG_CPP
+- https://streetgears.biz/
   
 ### Required Files (*Setup*)
 
